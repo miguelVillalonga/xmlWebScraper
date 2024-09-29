@@ -1,0 +1,1001 @@
+<root><text>
+
+{
+  "@context": "http://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": "Menorca - Es diari",
+  "url": "https://www.menorca.info",
+  "contactPoint" : {
+    "@type" : "ContactPoint",
+    "contactType" : "Redacción Digital",
+    "email" : "redaccion@menorca.info"
+  },
+  "logo": {
+    "@type" : "ImageObject",
+    "contentUrl": "https://www.menorca.info/images/amp.png",
+    "name": "Menorca - Es diari",
+    "width": 600,
+    "height": 60
+  },
+  "address": {
+    "telephone":"971 351 600",
+    "email": "redaccion@menorca.info",
+    "@type": "PostalAddress",
+    "addressLocality": "Maó",
+    "addressCountry": "ES",
+    "postalCode": "07714",
+    "streetAddress": "Cap de Cavalleria, 5",
+    "url" : "https://www.menorca.info" ,
+    "sameAs" : [
+        "https://www.facebook.com/esdiarimenorca",
+        "https://twitter.com/esdiarimenorca",
+        "https://www.instagram.com/menorca.info/",
+        "https://www.youtube.com/c/MenorcainfoTV",
+        "https://t.me/menorca_bot",
+        "https://www.whatsapp.com/channel/0029VaWYcfHKwqSUWEyF6I2Z",
+        "https://news.google.com/publications/CAAiEBHE2M2v5WsI55raEhXYUBMqFAgKIhARxNjNr-VrCOea2hIV2FAT"
+    ]
+  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Grupo Serra",
+      "logo": "https://www.gruposerra.com/images/grupserra_amp.png"
+    }
+  ]
+}
+
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.menorca.info",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.menorca.info/search?term={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+
+
+    
+        
+            
+                
+    
+        Hoy es noticia:
+        Ordenanza de ruidosEmpresas de limpiezaEstafa telefónica    
+
+                
+                    
+                        Mallorca
+                        Menorca
+                        Ibiza y Formentera
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                
+                
+                
+                
+                
+            
+            
+    sábado, 22 de junio de 2024Es diari
+
+            
+                
+                                
+                Portada
+    
+        Menorca    
+    
+        
+        Todo MENORCALocalSucesosElecciones 28MCulturaVivir en MenorcaFotos        
+    
+
+
+    
+        Balears    
+    
+        
+        Todo BALEARSNoticiasEl Económico        
+    
+
+
+    
+        Actualidad    
+    
+        
+        Todo ACTUALIDADNacionalInternacionalMotorSociedadSorteos y LoteríasTecnología y VideojuegosDudas y respuestasViralesFotos        
+    
+
+
+    
+        Deportes    
+    
+        
+        Todo DEPORTESFútbolBaloncestoVoleibolCiclismoAtletismoPolideportivoClasificaciones y resultadosFotos        
+    
+
+
+    
+        Opinión    
+    
+        
+        Todo OPINIÓNEditorialFirmas del díaSorprende y no sorprendeBlogsCartas del lectorAutoresTira cómica     
+        
+    
+
+
+    
+        Club 'Es Diari'    
+    
+        
+        Todo CLUB 'ES DIARI'NoticiasSuscripciónPromocionesSorteos        
+    
+
+
+	
+	    Participa
+	
+	
+	    
+		Todo PARTICIPA
+		Denuncias
+                 		Encuestas
+		Protagonistas
+	    
+	
+
+
+    
+        Ocio    
+    
+        
+	Todo OcioCarteleraTradicionesConferenciasConciertosFerias y fiestas Otros eventosExposicionesOcio familiarMercadosFestivalDanzaLibrosTeatroHumor        
+    
+
+
+    
+        Vips    
+    
+        
+        Todo VIPSQuiosco RosaTelevisiónFotos        
+    
+
+
+	
+		Especiales	
+	
+		
+        Todos los ESPECIALESAnuario Económico 2023 Illes BalearsSuplementosGuía turística de MenorcaEspeciales anteriores		
+	
+
+
+    
+        Servicios
+    
+    
+        
+            El tiempo
+            Horóscopo
+            Webcams            Hemeroteca
+            Sorteos y LoteríasFotogalerías        
+    
+
+                
+                
+                    Síguenos
+                    F Y T I T W RG                
+                
+                Contratar publicidadSuscríbeteContactoNewsletters                
+            
+            
+                Iniciar sesión
+                            
+            Suscríbete
+        
+        
+            
+        
+    
+
+
+    
+        
+            
+                
+                                    
+            
+            
+    Menorca
+    
+        Cargando...
+            
+
+
+    Balears
+    
+        Cargando...
+            
+
+
+    Actualidad
+    
+        Cargando...
+            
+
+
+    Deportes
+    
+        Cargando...
+            
+
+
+    Opinión
+    
+        Cargando...
+            
+
+
+    Club 'Es Diari'
+    
+        Cargando...
+            
+
+
+    Participa
+    
+        Cargando...
+            
+
+
+    Ocio
+    
+        Cargando...
+            
+
+
+    Vips
+    
+        Cargando...
+            
+
+
+    Especiales
+    
+        Cargando...
+            
+
+            
+                
+                                    
+                            
+        
+    
+
+
+
+    
+        
+                    
+    
+    
+        
+                    
+    
+
+{
+    "@context": "http:\/\/schema.org",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.menorca.info\/menorca\/local\/2024\/06\/22\/2189569\/renuncia-josep-juaneda-deja-vacante-liderazgo-recien-estrenado-mes-per-menorca.html"
+    },
+    "headline": "La renuncia de Josep Juaneda deja vacante su liderazgo reci\u00e9n estrenado en M\u00e9s per Menorca",
+    "alternativeHeadline": "Pone fin a una trayectoria de doce a\u00f1os en la vida pol\u00edtica activa por motivos personales y queda por ver si coge el relevo Esteve Barcel\u00f3",
+    "abstract": "El portavoz de M\u00e9s per Menorca en el Consell y coordinador general del partido, Josep Juaneda, anunci\u00f3 esre viernes su renuncia a todos sus cargos, con lo que pone fin a doce a\u00f1os de trayectoria pol\u00edtica activa. Los motivos, seg\u00fan expone un comunicado emitido por el propio partido y ha comunicado el propio Juaneda a sus allegados, son de car\u00e1cter estrictamente personal.",
+    "articleBody": "&lt;p&gt;El portavoz de&lt;strong&gt; M\u00e9s per Menorca en el Consell y coordinador general&lt;\/strong&gt; del partido, &lt;strong&gt;Josep Juaneda, anunci\u00f3 esre viernes su renuncia a todos sus cargos&lt;\/strong&gt;, con lo que pone fin a doce a\u00f1os de trayectoria pol\u00edtica activa. Los motivos, seg\u00fan expone un comunicado emitido por el propio partido y ha comunicado el propio Juaneda a sus allegados, son de &lt;strong&gt;car\u00e1cter estrictamente personal&lt;\/strong&gt;.&lt;\/p&gt;\r\n&lt;p&gt;Juaneda renuncia como conseller cuando est\u00e1 a punto de cumplirse su primer a\u00f1o como conseller de la oposici\u00f3n. As\u00ed las cosas, el&lt;strong&gt; grupo se queda, de momento, con Noem\u00ed Garc\u00eda&lt;\/strong&gt;. Queda por ver quien ocupa en el pleno la silla que ahora queda vacante.&lt;\/p&gt;\r\n&lt;p&gt;El &lt;strong&gt;siguiente en la lista electoral es Esteve Barcel\u00f3, quien fuera director insular de Medio Ambiente&lt;\/strong&gt; en el anterior mandato. Ahora mismo ejerce como superior de mantenimiento y explotaci\u00f3n en la Abaqua. En el caso de que este decidiera no dar el paso, &lt;strong&gt;el turno corre hasta Raquel Marqu\u00e9s&lt;\/strong&gt;, tambi\u00e9n con experiencia en el segundo escal\u00f3n del organigrama del Consell. El \u2018cinco\u2019 es Ferran Andreu.&lt;\/p&gt;\r\n&lt;h4&gt;Cuatro meses despu\u00e9s de su elecci\u00f3n&lt;\/h4&gt;\r\n&lt;p&gt;Tambi\u00e9n &lt;strong&gt;queda ahora vacante el cargo de coordinador general del partido, cuatro meses despu\u00e9s de que Juaneda fuera elegido&lt;\/strong&gt; por los militantes, puesto que la suya fue la \u00fanica candidatura presentada.&lt;\/p&gt;\r\n&lt;p&gt;La direcci\u00f3n de la formaci\u00f3n econacionalista queda ahora en pleno interinaje. De nuevo aparece el nombre de Esteve Barcel\u00f3, ahora mismo secretario de Organizaci\u00f3n y, por tanto, n\u00famero dos del equipo directivo de M\u00e9s per Menorca. Barcel\u00f3 queda al frente y, de momento, desde las fuentes oficiales del partido prefieren no avanzar cu\u00e1les son los pr\u00f3ximos pasos a dar.&lt;\/p&gt;\r\n&lt;p&gt;Josep Juaneda particip\u00f3 el martes en el pleno del Consell correspondiente al mes de junio, interviniendo en los debates, sin que nada hiciera pensar en una decisi\u00f3n de este calibre. No obstante, ahora mismo considera que &lt;strong&gt;sus condiciones personales no son las m\u00e1s adecuadas para seguir desempe\u00f1ando las funciones&lt;\/strong&gt; propias de sus cargos pol\u00edticos en plenitud, por lo que opta por la renuncia. Desde M\u00e9s per Menorca, en el referido comunicado, agradecen su implicaci\u00f3n durante todo este tiempo.&lt;\/p&gt;",
+    "articleSection": [
+        "Local",
+        "Menorca"
+    ],
+    "inLanguage": "es",
+    "@type": "ReportageNewsArticle",
+    "image": [
+        {
+            "@type": "ImageObject",
+            "url": "https:\/\/men.gsstatic.es\/sfAttachPlugin\/2889649.jpg",
+            "width": 2048,
+            "height": 1365,
+            "thumbnailUrl": "https:\/\/men.gsstatic.es\/sfAttachPlugin\/getPreview\/id\/2889649",
+            "headline": "Josep Juaneda durante la sesi\u00f3n celebrada en el Consell este mismo martes",
+            "caption": "Josep Juaneda durante la sesi\u00f3n celebrada en el Consell este mismo martes"
+        }
+    ],
+    "datePublished": "2024-06-22T04:00:01+02:00",
+    "dateModified": "2024-06-22T04:00:01+02:00",
+    "locationCreated": {
+        "@type": "Place",
+        "name": "Palma de Mallorca, Espa\u00f1a"
+    },
+    "isAccessibleForFree": "false",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Pep Mir",
+            "url": "https:\/\/www.menorca.info\/autor\/pep-mir.html",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https:\/\/men.gsstatic.es\/autor\/pep-mir\/33.png",
+                "width": 234,
+                "height": 234
+            }
+        }
+    ],
+    "editor": {
+        "@type": "Person",
+        "identifier": "ffebrer",
+        "name": "Febrer, Francesc"
+    },
+    "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "Menorca.info",
+        "logo": {
+            "@type": "ImageObject",
+            "contenturl": "https:\/\/www.menorca.info\/images\/amp.png",
+            "name": "Menorca - Es diari",
+            "width": 600,
+            "height": 60
+        }
+    }
+}
+    
+        
+    
+        
+            
+                
+                                    
+            
+        
+    
+
+        
+            
+    
+        Menorca | Local    
+
+&lt;!--
+jQuery(function(){
+  if (typeof gigya == 'object')
+    gigya.accounts.getAccountInfo({
+      callback: function getAccountInfoResponse(response) {
+        if (response.errorCode == 0)
+          jQuery.ajax({type:'POST',dataType:'json',url:'/sfCounter/increment/sf_countable_token/377fdc654ff739822a47ac5605e64276/class/Noticia/id/2189569', data: { "user_id": response['UID']}})
+        else
+          jQuery.ajax({type:'POST',dataType:'json',url:'/sfCounter/increment/sf_countable_token/377fdc654ff739822a47ac5605e64276/class/Noticia/id/2189569'})
+      }
+    });
+  else
+    jQuery.ajax({type:'POST',dataType:'json',url:'/sfCounter/increment/sf_countable_token/377fdc654ff739822a47ac5605e64276/class/Noticia/id/2189569'});
+});
+--&gt;
+
+            
+                
+                    
+                        
+                                                         La renuncia de Josep Juaneda deja vacante su liderazgo recién estrenado en Més per Menorca
+                            Pone fin a una trayectoria de doce años en la vida política activa por motivos personales y queda por ver si coge el relevo Esteve Barceló                                
+                                                                  
+                                    
+                                    El líder de Més per Menorca dimite como portavoz en el Consell y deja la política                                    
+                                  
+                                                                  
+                                                    
+                    
+                
+
+                
+                    
+                        
+                                
+        
+            
+                
+    
+        
+            
+                    
+    
+
+Josep Juaneda durante la sesión celebrada en el Consell este mismo martes | Gemma Andreu            
+        
+    
+                            
+                                
+                                    
+                                    Pep Mir22/06/24 4:00                                    
+                                
+                            
+                            
+                                
+                                    
+                                        FTWM
+function disableReadLater() {
+  let content = `&lt;div class='text-center'&gt;Esta funcionalidad es sólo para registrados. &lt;a class='gLogin d-block mt-1 mx-auto w-50 btn btn-sm btn-secondary' href='#'&gt;Iniciar sesión&lt;/a&gt;&lt;/div&gt;`;
+  let html = `&lt;i class="fa fa-bookmark disabled" data-html="true" data-toggle="popover" data-placement="bottom" data-content="${content}"&gt;&lt;/i&gt;`;
+  jQuery("#readlater_2189569").html(html);
+  $('[data-toggle="popover"]').popover();
+  $('body').on('click', '.gLogin', () =&gt; {$('[data-toggle="popover"]').popover('hide');});
+}
+
+function updateReadLaterStatus() {
+    gigya.accounts.getAccountInfo({
+      callback: function getAccountInfoResponse(response) {
+        if (response.errorCode == 0) {
+          jQuery.ajax({type:'POST',dataType:'html',data:{user: response.UID },url:'/sfReadLater/readLater/model/Noticia/id/2189569'}).done(function(data, textStatus){jQuery('#readlater_2189569').html(data);});
+        } else {
+          disableReadLater();
+        };
+      }
+    });
+}
+
+
+jQuery(function(){
+  if (typeof gigya == 'object')
+  {
+    updateReadLaterStatus();
+    gigya.accounts.addEventHandlers({
+       onLogin: function() {
+         updateReadLaterStatus();
+         $('[data-toggle="popover"]').popover('hide');
+       },
+       onLogut: disableReadLater()
+    });
+  }
+});
+
+13                                    
+                                
+                            
+                        
+                                                
+                            
+                                
+                                El portavoz de Més per Menorca en el Consell y coordinador general del partido, Josep Juaneda, anunció esre viernes su renuncia a todos sus cargos, con lo que pone fin a doce años de trayectoria política activa. Los motivos, según expone un comunicado emitido por el propio partido y ha comunicado el propio Juaneda a sus allegados, son de carácter estrictamente personal.
+
+
+
+
+
+
+
+
+Juaneda renuncia como conseller cuando está a punto de cumplirse su primer año como conseller de la oposición. Así las cosas, el grupo se queda, de momento, con Noemí García. Queda por ver quien ocupa en el pleno la silla que ahora queda vacante.
+
+El siguiente en la lista electoral es Esteve Barceló, quien fuera director insular de Medio Ambiente en el anterior mandato. Ahora mismo ejerce como superior de mantenimiento y explotación en la Abaqua. En el caso de que este decidiera no dar el paso, el turno corre hasta Raquel Marqués, también con experiencia en el segundo escalón del organigrama del Consell. El ‘cinco’ es Ferran Andreu.
+Cuatro meses después de su elección
+También queda ahora vacante el cargo de coordinador general del partido, cuatro meses después de que Juaneda fuera elegido por los militantes, puesto que la suya fue la única candidatura presentada.
+La dirección de la formación econacionalista queda ahora en pleno interinaje. De nuevo aparece el nombre de Esteve Barceló, ahora mismo secretario de Organización y, por tanto, número dos del equipo directivo de Més per Menorca. Barceló queda al frente y, de momento, desde las fuentes oficiales del partido prefieren no avanzar cuáles son los próximos pasos a dar.
+
+Josep Juaneda participó el martes en el pleno del Consell correspondiente al mes de junio, interviniendo en los debates, sin que nada hiciera pensar en una decisión de este calibre. No obstante, ahora mismo considera que sus condiciones personales no son las más adecuadas para seguir desempeñando las funciones propias de sus cargos políticos en plenitud, por lo que opta por la renuncia. Desde Més per Menorca, en el referido comunicado, agradecen su implicación durante todo este tiempo.
+
+        El apunte        
+                            
+                                        
+                        De concejal a conseller, candidato al Consell y número uno del partido
+                        Josep Juaneda (Ciutadella, 1981) empezó en política en 2012, cuando asumió el acta de concejal en el Ayuntamiento de Ciutadella. Estuvo en la oposición hasta 2015, donde también se presentó en las listas del PSM encabezadas por Joana Gomila y fue nombrado concejal de Cultura, Deportes y Fiestas hasta 2019. En las elecciones de ese año no se presentó en el Ayuntamiento y dio el salto al Consell como director insular de Educación, Juventud y Deportes. En junio de 2021, tras la renuncia de Maite Salord, Josep Juaneda fue nombrado conseller de Medio Ambiente y Reserva de la Biosfera, hasta la formación del nuevo gobierno del PP, el verano del año pasado. En las elecciones autonómicas de mayo de 2023, tras un paso al lado de Miquel Maria, fue el cabeza de lista de Més per Menorca en el Consell.                    
+                
+                                    
+    
+                                
+                            
+                        
+                            
+        
+            
+                
+                    Josep JuanedaMés per Menorca                
+            
+        
+    
+                        
+                        
+                            
+                        
+                    
+                    
+
+
+    
+        
+                        
+    
+
+    
+        
+            
+                También en Menorca
+            
+        
+        
+            
+                                    
+                        
+                                                    
+                        
+                            El turista que no regresará a Menorca tras ser multado por el radar de Es Migjorn: «Es una vergüenza»
+                        
+                    
+                                    
+                        
+                                                    
+                        
+                            Dos calas de Menorca, entre las más buscadas de España para comprar una segunda residencia
+                        
+                    
+                                    
+                        
+                                                    
+                        
+                            La propiedad vuelve a cerrar el parking de Cala en Porter y denuncia al alcalde por prevaricación
+                        
+                    
+                                    
+                        
+                                                    
+                        
+                            Nuevo capítulo de la 'guerra de las piedras' en Cala en Porter: Alaior las retira por segunda vez
+                        
+                    
+                            
+        
+    
+
+    
+        
+                        
+    
+
+
+    
+        
+            Más leído        
+        Más comentado        
+    
+    
+        
+            
+    El turista que no regresará a Menorca tras ser multado por el radar de Es Migjorn: «Es una vergüenza»La propiedad vuelve a cerrar el parking de Cala en Porter y denuncia al alcalde por prevaricaciónNuevo capítulo de la 'guerra de las piedras' en Cala en Porter: Alaior las retira por segunda vezLa familia Kretz busca casa de superlujo en Menorca para un reality de NetflixUn conductor ebrio embiste a otro vehículo en Ciutadella y dos mujeres resultan heridas
+        
+    
+
+
+    
+        
+                        
+    
+
+
+    
+        
+                        
+    
+
+
+                
+            
+            
+                
+    
+        
+            13 comentarios
+        
+    
+    
+	
+    
+    
+        
+            Para comentar es necesario estar registrado en Menorca - Es diari
+        
+        Regístrate        
+        
+            Iniciar sesión        
+    
+
+    
+        
+            
+                
+                    
+                        
+			HolaCerrar sesión                    
+                
+            
+            
+                
+		                    
+                    Respondiendo a Comentar                
+            
+        
+    
+
+    
+    
+
+    
+        
+            
+                            
+            Belita
+             |
+                Hace una hora            
+        
+        
+            Personalmente considero que quien opta por cualquier cargo publico adopta una actitud de servicio a la sociedad. Lo hara o no desde las ideas que nos gusten, lo hara con mayor o menor acierto.  Pero a el, como a todos los que se van tras un periodo de servicio, y lo hacen sin que se les pueda reprochar juego sucio ni favoritismos, como ciudadana, gracias. Quizas muchos de los que opinais y sacais fuego como dragones desde este anonimo foro, que tanto os favorece, nadie os conoce,  tendriais que probar a presentaros a algun cargo…. Quizas moderariais vuestro lenguaje. O quizas encontrariais soluciones maravillosas. Sort i ventura.
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta3            
+            
+                No me gusta2            
+        
+    
+
+
+    
+        
+            
+                            
+            Frida
+             |
+                Hace 2 horas            
+        
+        
+            No será que se le esta investigando?
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta5            
+            
+                No me gusta4            
+        
+    
+
+
+    
+        
+            
+                            
+            Tramuntana
+             |
+                Hace 2 horas            
+        
+        
+            Jo Meteixque dius tonteries?
+un menos a mantenir perque si  es seu puesto l,ocupara un altre.
+pensa un poc abans d,escriure.
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta1            
+            
+                No me gusta2            
+        
+    
+
+
+    
+        
+            
+                            
+            Menorquina
+             |
+                Hace 2 horas            
+        
+        
+            😂😂😂😂😂😂😂😂😂😂
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta3            
+            
+                No me gusta1            
+        
+    
+
+
+    
+        
+            
+                            
+            Marti Pascual
+             |
+                Hace 2 horas            
+        
+        
+            Bep gràcies per defensar la  nostra llengua
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta5            
+            
+                No me gusta6            
+        
+    
+
+
+    
+        
+            
+                            
+            Es barbullot
+             |
+                Hace 2 horas            
+        
+        
+            CiutadellencSa politica no es gens agraida dius, pues ajo ma sembla que sí, veient que tots miren de colocarse, no será per sa paga que tenen que no sigui agraida. Apart no obligan a ningú.
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta5            
+            
+                No me gusta4            
+        
+    
+
+
+    
+        
+            
+                            
+            buho
+             |
+                Hace 3 horas            
+        
+        
+            Jo MeteixNo lo digas muy seguro , cuantos salen por la puerta giratoria
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta8            
+            
+                No me gusta8            
+        
+    
+
+
+    
+        
+            
+                            
+            buho
+             |
+                Hace 3 horas            
+        
+        
+            Kapak , faltaba "Teo va a es mila "
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta11            
+            
+                No me gusta8            
+        
+    
+
+
+    
+        
+            
+                            
+            Ciutadellenc
+             |
+                Hace 4 horas            
+        
+        
+            Una llastima que gent valida no ens representi, trop que has aportat molt a Menorca i has fet molta bona feina per els menorquins i menorquines, i es molt fácil sense coneixement dir segons quines coses. Pero et conec com a persona i se que has donat tot i mes. Pero sa politica no es gens agarïda i res ni ningu és com sembla, sempre has d’estar atent. Ara et toca disfrutar dels teus i viure més tranquil.  
+“El ego es el asesino de un equipo”  (Patrick Lencioni)
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta12            
+            
+                No me gusta22            
+        
+    
+
+
+    
+        
+            
+                            
+            Kapak
+             |
+                Hace 4 horas            
+        
+        
+            Despues de Teo va al aeropuerto, de Teo va al Padel, de Teo va al Hospital...por fin tenemos el fascículo que todos queriamos.
+
+Teo se va a casa 🙌
+        
+        
+            
+                
+                    Responder                
+            
+            
+                Me gusta30            
+            
+                No me gusta17            
+        
+    
+
+
+
+    
+	Ver más comentarios    
+
+
+            
+        
+        
+    
+        
+            
+                
+                                    
+            
+        
+    
+
+    
+
+
+
+    
+        
+            
+                            
+        
+        
+            
+                Quiénes somosContratar PublicidadContactoAviso LegalPolítica de privacidadPolítica de cookiesCanal informante                Consentimiento
+		Status
+            
+        
+    
+    
+        
+            
+                
+                    Publicaciones
+                    Ultima Hora
+                    Mallorca Magazin
+                    Majorca Daily Bulletin
+                    Periódico de Ibiza
+                    Setmanari Sóller
+                    Book Style
+                
+            
+            
+                
+                    Audiovisuales
+                    Nova Producciones
+                
+            
+            
+                
+                    REDES SOCIALES
+                    Newsletters
+                    Facebook
+                    X (Twitter)
+                    WhatsApp
+                    Instagram
+                    Youtube
+                    Telegram
+                
+            
+            
+                
+                    Editorial Menorca, S.A.
+                    Redacción, Administración y Publicidad
+                    Delegación Maó
+                    Delegación Ciutadella
+                
+            
+        
+    
+
+
+    
+        
+            
+                
+                    ×
+                
+                
+            
+        
+    
+
+
+  _PROMETEO_MEDIA_CONFIG={"siteId":"602","author":"Pep Mir","publish_time":"2024-06-22 00:44:47","article_id":"2189569","content_type":"noticia","thumbnail_image":"https:\/\/men.gsstatic.es\/sfAttachPlugin\/getPreview\/id\/2889649","section":"menorca","sub_section":"local","category_3":null,"category_4":null,"cuser":"gigya_user","tags":"josep_juaneda,m\u00e9s_per_menorca","accesstype":"suscripcion","author_id":"ffebrer"};
+  _PROMETEO_MEDIA_CONFIG.userId=cookie.get('gigya_user');
+
+    (function (){
+        let n = document.getElementsByTagName('script')[0];
+        let e = document.createElement('script');
+        e.async = true;
+        e.src = 'https://dkumiip2e9ary.cloudfront.net/js/prometeo-media/pro/prometeo-media.js';
+        n.parentNode.insertBefore(e, n);
+    })();
+
+
+
+
+
+        (function() {
+          var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+          _sf_async_config.sections = "Menorca/Local,Menorca,2024";
+          _sf_async_config.authors = "Pep Mir,ffebrer";
+          _cbq.push(['_acct', 'anon']);
+          function loadChartbeat() {
+              var e = document.createElement('script');
+              var n = document.getElementsByTagName('script')[0];
+              e.type = 'text/javascript';
+              e.async = true;
+              e.src = '//static.chartbeat.com/js/chartbeat.js';
+              n.parentNode.insertBefore(e, n);
+          }
+          loadChartbeat();
+        })();
+      
+
+
+</text></root>

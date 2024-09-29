@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Information Extractor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Webpage Information Extractor</h1>
+        <div class="input-group">
+            <label for="url-input">Enter URL:</label>
+            <input type="text" id="url-input" placeholder="https://example.com">
+            <button id="load-btn">Load Page</button>
+        </div>
+        <div class="content">
+            <iframe id="webpage-frame" src="" frameborder="0"></iframe>
+            <textarea id="info-output" readonly placeholder="Extracted information will appear here..."></textarea>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+Aquí tienes un ejemplo de cómo podrías crear una página web que contiene un iframe para mostrar una página, un campo de texto para ingresar la URL, y un área de texto para mostrar la información escrita de la página en formato XML. 
+
+### HTML
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Information Extractor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Webpage Information Extractor</h1>
+        <div class="input-group">
+            <label for="url-input">Enter URL:</label>
+            <input type="text" id="url-input" placeholder="https://example.com">
+            <button id="load-btn">Load Page</button>
+        </div>
+        <div class="content">
+            <iframe id="webpage-frame" src="" frameborder="0"></iframe>
+            <textarea id="info-output" readonly placeholder="Extracted information will appear here..."></textarea>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+### CSS (styles.css)
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#url-input {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+iframe {
+    width: 60%;
+    height: 500px;
+    border: 1px solid #ccc;
+}
+
+textarea {
+    width: 35%;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+}
+```
+
+### JavaScript (script.js)
+```javascript
+document.getElementById('load-btn').addEventListener('click', function() {
+    const url = document.getElementById('url-input').value;
+    const iframe = document.getElementById('webpage-frame');
+    iframe.src = url;
+
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent(url))
+        .then(response => response.json())
+        .then(data => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(data.contents, 'text/html');
+            const textContent = doc.body.textContent;
+            
+            const xmlDocument = document.implementation.createDocument('', '', null);
+            const root = xmlDocument.createElement('root');
+            const textNode = xmlDocument.createElement('text');
+            textNode.textContent = textContent;
+            root.appendChild(textNode);
+            xmlDocument.appendChild(root);
+
+            const serializer = new XMLSerializer();
+            const xmlString = serializer.serializeToString(xmlDocument);
+
+            document.getElementById('info-output').textContent = xmlString;
+        })
+        .catch(error => {
+            console.error('Error fetching the webpage:', error);
+        });
+});
+```
+
+### Descripción
+
+1. **HTML**: Estructura básica de la página, con un campo de texto para ingresar la URL, un botón para cargar la página en el iframe, y un área de texto para mostrar la información extraída en formato XML.
+2. **CSS**: Estiliza la página para que sea visualmente agradable.
+3. **JavaScript**: 
+    - Captura la URL ingresada y la carga en el iframe.
+    - Utiliza la API `allorigins` para evitar problemas de CORS al intentar obtener el contenido de la página.
+    - Extrae el texto de la página y lo convierte en un documento XML, que se muestra en el área de texto. 
+
+Nota: Este código utiliza la API `allorigins` para evitar problemas de CORS al obtener el contenido de la página. Asegúrate de que la URL ingresada sea accesible y que `allorigins` esté operativo.
